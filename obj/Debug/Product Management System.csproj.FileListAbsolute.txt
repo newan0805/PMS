@@ -1,0 +1,85 @@
+D:\Programing\C#\Product Management System\obj\Debug\Product Management System.csproj.SuggestedBindingRedirects.cache
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Forms.FormForgotPassword.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Forms.FormLogin.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Forms.FormSettings.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Forms.FormDashboard.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Forms.FormSignup.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Properties.Resources.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product Management System.csproj.GenerateResource.cache
+D:\Programing\C#\Product Management System\obj\Debug\Product Management System.csproj.CoreCompileInputs.cache
+D:\Programing\C#\Product Management System\bin\Debug\Product Management System.exe.config
+D:\Programing\C#\Product Management System\bin\Debug\Product Management System.exe
+D:\Programing\C#\Product Management System\bin\Debug\Product Management System.pdb
+D:\Programing\C#\Product Management System\bin\Debug\RototypeIntl.Database.dll
+D:\Programing\C#\Product Management System\bin\Debug\SLRDbConnector.dll
+D:\Programing\C#\Product Management System\obj\Debug\Product Management System.csproj.CopyComplete
+D:\Programing\C#\Product Management System\obj\Debug\Product Management System.exe
+D:\Programing\C#\Product Management System\obj\Debug\Product Management System.pdb
+D:\Programing\C#\Product Management System\obj\Debug\Product Management System.csproj.AssemblyReference.cache
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormProducts.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormUsers.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormProductCrud.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormUserManagement.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientProductPlacements.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientProducts.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientSettings.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientDashboard.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Forms.FormAboutClient.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Test.TestInsert.resources
+D:\Programing\C#\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientProductCrud.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\bin\Debug\Product Management System.exe.config
+C:\Users\NK\Desktop\Product Management System\Product Management System\bin\Debug\Product Management System.exe
+C:\Users\NK\Desktop\Product Management System\Product Management System\bin\Debug\Product Management System.pdb
+C:\Users\NK\Desktop\Product Management System\Product Management System\bin\Debug\RototypeIntl.Database.dll
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product Management System.csproj.AssemblyReference.cache
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Forms.FormForgotPassword.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Forms.FormLogin.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormProductCrud.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormProducts.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Forms.FormSettings.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Forms.FormDashboard.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientProductCrud.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Forms.FormSignup.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormUserManagement.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormUsers.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Forms.FormAboutClient.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientDashboard.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientProductPlacements.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientProducts.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientSettings.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Properties.Resources.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product_Management_System.Test.TestInsert.resources
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product Management System.csproj.GenerateResource.cache
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product Management System.csproj.CoreCompileInputs.cache
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product Management System.csproj.CopyComplete
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product Management System.exe
+C:\Users\NK\Desktop\Product Management System\Product Management System\obj\Debug\Product Management System.pdb
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\bin\Debug\Product Management System.exe.config
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\bin\Debug\Product Management System.exe
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\bin\Debug\Product Management System.pdb
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\bin\Debug\RototypeIntl.Database.dll
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product Management System.csproj.AssemblyReference.cache
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Forms.FormForgotPassword.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Forms.FormLogin.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormProductCrud.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormProducts.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Forms.FormSettings.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Forms.FormDashboard.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientProductCrud.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Forms.FormSignup.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormUserManagement.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Admin_Forms.FormUsers.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Forms.FormAboutClient.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientDashboard.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientProductPlacements.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientProducts.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Client_Forms.FormClientSettings.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Properties.Resources.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product_Management_System.Test.TestInsert.resources
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product Management System.csproj.GenerateResource.cache
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product Management System.csproj.CoreCompileInputs.cache
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product Management System.csproj.CopyComplete
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product Management System.exe
+C:\Users\NK\Desktop\Product Management System (Final)\Product Management System\obj\Debug\Product Management System.pdb
